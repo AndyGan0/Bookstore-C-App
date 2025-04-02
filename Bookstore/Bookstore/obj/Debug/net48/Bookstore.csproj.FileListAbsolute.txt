@@ -1,0 +1,121 @@
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.AssemblyReference.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Login_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.MainMenuForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Properties.Resources.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Register_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Start_up_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.GenerateResource.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfoInputs.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfo.cs
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CoreCompileInputs.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe.config
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\bin\Debug\net48\Bookstore.pdb
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\bin\Debug\net48\System.Data.OleDb.dll
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CopyComplete
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.exe
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.pdb
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Search_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.CartForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BankSystemForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe.config
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.pdb
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\System.Data.OleDb.dll
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.AssemblyReference.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.MainMenuForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Properties.Resources.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Search_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.GenerateResource.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfoInputs.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfo.cs
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CoreCompileInputs.cache
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CopyComplete
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.exe
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.pdb
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.CartForm.CartForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Login_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Register_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Start_up_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.QuestionForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.Book_Form.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BankSystemForm.resources
+D:\uni\6th semester\τεχνολογιες λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Messages.User_Author_contactForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe.config
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.pdb
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\System.Data.OleDb.dll
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.AssemblyReference.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BankSystemForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.Book_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.QuestionForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.CartForm.CartForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.MainMenuForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Messages.User_Author_contactForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Properties.Resources.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Search_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Login_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Register_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Start_up_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.GenerateResource.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfoInputs.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfo.cs
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CopyComplete
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.exe
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.pdb
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.Statistics_form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe.config
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\bin\Debug\net48\Bookstore.pdb
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\bin\Debug\net48\System.Data.OleDb.dll
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.AssemblyReference.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BankSystemForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.Book_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.QuestionForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.Statistics_form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.CartForm.CartForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.MainMenuForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Messages.User_Author_contactForm.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Properties.Resources.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Search_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Login_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Register_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Start_up_Form.resources
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.GenerateResource.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfoInputs.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfo.cs
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CopyComplete
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.exe
+C:\Users\angan\Desktop\uni\Τεχνολογιες Λογισμικου\final Project\version 3\Bookstore\Bookstore\obj\Debug\net48\Bookstore.pdb
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe.config
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.exe
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\Bookstore.pdb
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\bin\Debug\net48\System.Data.OleDb.dll
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.AssemblyReference.cache
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BankSystemForm.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.Book_Form.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.QuestionForm.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.BookForm.Statistics_form.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.CartForm.CartForm.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.MainMenuForm.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Messages.User_Author_contactForm.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Properties.Resources.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.Search_Form.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Login_Form.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Register_Form.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.StartupForms.Start_up_Form.resources
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.GenerateResource.cache
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfoInputs.cache
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.AssemblyInfo.cs
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.csproj.CopyComplete
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.exe
+C:\Users\angan\Desktop\uni\TEXNOLOGIES LOGISMIKOY\final Project\version 2\Bookstore\Bookstore\obj\Debug\net48\Bookstore.pdb

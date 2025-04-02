@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpX+C035ZTUK9kQLksaYu26lvQ5O5nDk4grEX9Yf0ttYJABwOUgm0gOrK7GltKqvnUUsyk2E+zUjSpN/4LJogA==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\6th semester\\τεχνολογιες λογισμικου\\final Project\\version 2\\Bookstore\\Bookstore\\Bookstore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angan\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
